@@ -6,3 +6,4 @@ moza-assistant-firebase-adminsdk-*.json
 
 # node_modules ska inte med
 node_modules/
+src/moza-assistant-firebase-adminsdk-*.json

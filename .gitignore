@@ -1,0 +1,8 @@
+# Ignorera hemliga nycklar
+*.json
+
+# Specifikt din firebase-nyckel
+moza-assistant-firebase-adminsdk-*.json
+
+# node_modules ska inte med
+node_modules/
